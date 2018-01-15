@@ -10,4 +10,4 @@ def hot_aver(a,b,c):
     ha= (a+b+c)/3
     return ha
     
-    
+    trewt43tq3
